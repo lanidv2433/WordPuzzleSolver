@@ -4,7 +4,6 @@
 #include "runtimeexcept.hpp"
 #include <vector>
 
-// ADD CASE WHERE ITS EQUAL
 
 class PriorityQueueEmptyException : public RuntimeException 
 {
